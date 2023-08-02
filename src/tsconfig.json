@@ -1,0 +1,8 @@
+// Write a tsconfig
+{
+    "compilerOptions": {
+        "lib":["DOM", "ESNext"],
+        "target": "ESNext",
+        "outFile": "./index.js"
+    }
+}
